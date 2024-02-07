@@ -16,7 +16,10 @@ This is going to be a complete tuitorial for Git:
     6. Commit:- This is used to finalize the changes that are made on the files.
         git commit -m "Some message"
 
-    7 Push:- It is used to push all the changes that are made in the files to the Github.
+    7. Push:- It is used to push all the changes that are made in the files to the Github.
         git push origin main
+    
+    8. Init:- It is used to initialize the git in your project folder.
+        git init
 
     
