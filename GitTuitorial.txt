@@ -1,5 +1,22 @@
 This is going to be a complete tuitorial for Git:
     1. Local refers to the current working directory that is present on the laptop.
+
     2. Remote refers to the files and folders that are present on the Github.
+
     3. Clone:- Means copying the repository from remote server (Github) to local system.
         git clone "project link"
+
+    4. Status:- Tells the status of the code on which we are working right now.
+        git status
+    
+    5. Add:- This adds new chnages to the working directory so that git can track the changes.
+        git add "filename"
+        git add .(enables to add all the files)
+    
+    6. Commit:- This is used to finalize the changes that are made on the files.
+        git commit -m "Some message"
+
+    7 Push:- It is used to push all the changes that are made in the files to the Github.
+        git push origin main
+
+    
