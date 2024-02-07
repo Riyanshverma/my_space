@@ -22,4 +22,14 @@ This is going to be a complete tuitorial for Git:
     8. Init:- It is used to initialize the git in your project folder.
         git init
 
+    9. Remote Add Origin:- It used to add a new repository on Github. 
+        git remote add origin "https://github.com/username/repo.git"
     
+    10. Remote -v:-  Tells which repository are we currently working on.
+
+    11. Branch:- Refers to the copies that are created by different developers at the same time.
+
+    12. To rename any branch name we use git branch -M "name"
+
+    13. Setting upstream means that if we are working on a project for a long time then we can set origin main as -u to
+        make it easy while pushing some thing on Github.
