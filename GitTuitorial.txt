@@ -1,0 +1,5 @@
+This is going to be a complete tuitorial for Git:
+    1. Local refers to the current working directory that is present on the laptop.
+    2. Remote refers to the files and folders that are present on the Github.
+    3. Clone:- Means copying the repository from remote server (Github) to local system.
+        git clone "project link"
