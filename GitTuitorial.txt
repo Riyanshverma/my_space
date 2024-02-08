@@ -49,3 +49,5 @@ This is going to be a complete tuitorial for Git:
 
     20. git pull origin main is used to bring the changes that were merged in the remote repo to the local device
         repo.
+
+    21. Fork is used to create a rough copy of some repository on your account.
