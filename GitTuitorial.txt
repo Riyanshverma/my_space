@@ -33,3 +33,19 @@ This is going to be a complete tuitorial for Git:
 
     13. Setting upstream means that if we are working on a project for a long time then we can set origin main as -u to
         make it easy while pushing some thing on Github.
+    
+    14. To check on which branch we are working on we  do git branch
+
+    15. To change the branch we use git checkout "branch name"
+
+    16. To create a new branch we do git checkout -b "branch name"
+
+    17. To delete a branch we use git branch -d "branch name"
+        We can only delete the branch when we are not working on that branch.
+    
+    18. To compare any two branch we use git diff "branch name"
+
+    19. To merge the content of any two branches we use git merge "branch name"
+
+    20. git pull origin main is used to bring the changes that were merged in the remote repo to the local device
+        repo.
